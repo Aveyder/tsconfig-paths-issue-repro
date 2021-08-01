@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+
+    "outDir": "dist",
+    "baseUrl": "./",
+
+    "lib": ["es5", "dom"],
+
+    "paths": {
+      "@project/common": ["../common/src"]
+    }
+  },
+  "include": [
+    "src", "types"
+  ]
+}
