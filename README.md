@@ -1,3 +1,5 @@
+Relates to https://github.com/dividab/tsconfig-paths-webpack-plugin/issues/83
+
 ## How to reproduce
 
 Run first
